@@ -1,0 +1,124 @@
+
+
+body{
+    background-color: #f6f6f6;
+    font-family: "jura";
+    color: #090909;
+    background-size: 100% auto ;
+    
+    
+}
+
+
+
+
+h1{
+    text-align: center;
+    display: block;
+    font-size: 3vw;
+}
+
+
+
+img{
+    max-width:100%;
+    display: block;
+    margin: 0 auto;
+        
+}
+
+
+
+
+
+form{
+    
+    font-size: 1.5vw;
+    margin: 0 auto;
+    padding-top: 20px;
+    width: 60%;
+    
+    display: block;
+    padding: 30px;
+    background-color:#f6f6f6;
+    border-radius: 10px;
+    border: 2px solid #11111B;
+   
+}
+
+
+form input[type=text],
+form input[type=text],
+form input[type=text]{
+    
+    background-color: #fefefe;
+    border: solid 2px #11111B;
+    border-radius: 4px; 
+    width: 50%;
+    height: 50px;
+    box-sizing: border-box;
+    font-family:"jura" ;
+    color: #11111B;
+    font-size: 1.5vw;
+    
+}
+
+
+
+
+select{
+    background-color: #ffffff;
+    border: solid 2px #11111B;
+    border-radius: 4px;
+    width: 30%;
+    height: 40px;
+    box-sizing: border-box;
+    font-family: "jura";
+    color: #11111B;
+    font-size: 1.5vw;
+}
+
+ul li{
+    list-style: none;
+    padding-top: 10px;
+    border-radius:100px;
+    margin: auto;
+    display:inline;
+    font-size: 1.5vw;
+    
+    
+    
+}
+
+form button{
+    display: block;
+    background-color: #ffffff;
+    border: solid 2px;
+    border-radius: 4px;
+    padding: 0.65em 1em 1em;
+    font-family: "jura";
+    box-sizing: border-box;
+    box-shadow: none;
+    color: #11111B;
+    font-size: 1.2vw;
+    width: 50%;
+    height: 50px;
+    margin: 25%;
+    cursor:pointer;
+    
+}
+
+form button:hover{
+    transform: scale(1.03);
+    
+}
+
+form input:hover{
+    transform: scale(1.03);
+}
+
+form select:hover{
+    transform: scale(1.03);
+}
+
+
