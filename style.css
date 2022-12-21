@@ -76,6 +76,7 @@ select{
     font-family: "jura";
     color: #11111B;
     font-size: 1.5vw;
+    cursor: pointer;
 }
 
 ul li{
